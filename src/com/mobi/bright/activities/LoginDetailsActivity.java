@@ -32,7 +32,7 @@ public class LoginDetailsActivity extends Activity {
 
         if (customer.getFromDb()) {
             textView.setText(customer.getName());
-            Log.e("User","user");
+            Log.e("User123","user12");
         } else {
             textView.setText("Anonymous");
         }
