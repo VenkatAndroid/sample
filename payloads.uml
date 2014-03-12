@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.mobi.bright.activities.services.payloads</OriginalElement>
+  <nodes>
+    <node x="469.06191369606006" y="53.21575984990619">com.mobi.bright.minerva.dao.CustomerData</node>
+    <node x="360.0" y="295.0">com.mobi.bright.activities.services.payloads.PageInstanceProgress</node>
+    <node x="323.06941838649163" y="497.03189493433393">com.mobi.bright.minerva.dao.MobiAnalyticsOutgoing</node>
+    <node x="0.0" y="295.0">com.mobi.bright.activities.services.payloads.MobiEvent</node>
+    <node x="0.0" y="502.0">com.mobi.bright.activities.services.payloads.MobiAnalyticsIncoming</node>
+    <node x="0.0" y="0.0">com.mobi.bright.activities.services.payloads.MobiSession</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.7823529411764706" x="329.5" y="330.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
