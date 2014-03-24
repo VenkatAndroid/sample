@@ -2,8 +2,10 @@ package com.mobi.bright.activities;
 
 import android.os.Bundle;
 import android.util.Log;
+
 import com.mobi.bright.util.AndroidUtil;
 import com.mobi.bright.util.LogUtil;
+
 import de.tavendo.autobahn.WebSocketException;
 
 
